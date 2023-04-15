@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/e/sourcecode/opensource/redis-6.0-annotated/redis/src/modules/helloblock.c
+../redismodule.h
+/cygdrive/e/sourcecode/opensource/redis-6.0-annotated/redis/src/redismodule.h
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+unistd.h
+-
+
+/cygdrive/e/sourcecode/opensource/redis-6.0-annotated/redis/src/redismodule.h
+sys/types.h
+-
+stdint.h
+-
+stdio.h
+-
+

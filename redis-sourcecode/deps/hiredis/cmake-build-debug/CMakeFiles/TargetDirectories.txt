@@ -1,0 +1,3 @@
+/cygdrive/e/sourcecode/opensource/redis-6.0-annotated/redis/deps/hiredis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/e/sourcecode/opensource/redis-6.0-annotated/redis/deps/hiredis/cmake-build-debug/CMakeFiles/hiredis.dir
+/cygdrive/e/sourcecode/opensource/redis-6.0-annotated/redis/deps/hiredis/cmake-build-debug/CMakeFiles/edit_cache.dir

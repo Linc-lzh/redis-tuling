@@ -1,0 +1,3 @@
+"D:\Clion\CLion 2021.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\helloblock.dir/objects.a
+D:\Clion\CLION2~1.3\bin\mingw\bin\ar.exe qc CMakeFiles\helloblock.dir/objects.a @CMakeFiles\helloblock.dir\objects1.rsp
+D:\Clion\CLION2~1.3\bin\mingw\bin\gcc.exe -g -shared -o helloblock.so -Wl,--out-implib,libhelloblock.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\helloblock.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\helloblock.dir\linklibs.rsp

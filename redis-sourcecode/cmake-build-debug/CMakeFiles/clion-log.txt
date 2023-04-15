@@ -1,0 +1,17 @@
+"D:\Clion\CLion 2021.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\3.Document\图灵课堂Java-架构师VIP精品课程（第五期）\四：分布式框架专题\07-深入底层C源码讲透Redis核心设计原理\redis
+-- The C compiler identification is GNU 11.2.0
+-- The CXX compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: D:/Clion/CLion 2021.3/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: D:/Clion/CLion 2021.3/bin/mingw/bin/g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/3.Document/鍥剧伒璇惧爞Java-鏋舵瀯甯圴IP绮惧搧璇剧▼锛堢浜旀湡锛�/鍥涳細鍒嗗竷寮忔鏋朵笓棰�/07-娣卞叆搴曞眰C婧愮爜璁查�廟edis鏍稿績璁捐鍘熺悊/redis/cmake-build-debug
+CMake File API: D:\3.Document\图灵课堂Java-架构师VIP精品课程（第五期）\四：分布式框架专题\07-深入底层C源码讲透Redis核心设计原理\redis\cmake-build-debug: target-helloblock-Debug-df5be185b3da060afb89.json: no CMakeLists.txt file at 'D:\3.Document\鍥剧伒璇惧爞Java-鏋舵瀯甯圴IP绮惧搧璇剧▼锛堢浜旀湡锛�\鍥涳細鍒嗗竷寮忔鏋朵笓棰�\07-娣卞叆搴曞眰C婧愮爜璁查�廟edis鏍稿績璁捐鍘熺悊\redis\src\modules\CMakeLists.txt'

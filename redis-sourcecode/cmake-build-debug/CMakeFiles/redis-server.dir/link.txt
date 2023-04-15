@@ -1,0 +1,3 @@
+"D:\Clion\CLion 2021.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\redis-server.dir/objects.a
+D:\Clion\CLION2~1.3\bin\mingw\bin\ar.exe qc CMakeFiles\redis-server.dir/objects.a @CMakeFiles\redis-server.dir\objects1.rsp
+D:\Clion\CLION2~1.3\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\redis-server.dir/objects.a -Wl,--no-whole-archive -o src\redis-server.exe -Wl,--out-implib,src\libredis-server.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\redis-server.dir\linklibs.rsp
